@@ -1,0 +1,3 @@
+A wiki (Listeni/ˈwɪki/ wik-ee) is a website that provides collaborative modification of 
+its content and structure directly from the web browser. In a typical wiki, text is written using a simplified markup
+language (known as "wiki markup") and often edited with the help of a rich-text editor.
